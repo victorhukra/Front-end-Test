@@ -1,0 +1,41 @@
+
+
+.titulo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+.lista{
+    background-color: green;
+    padding: 0em 4em 0em;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
+.Coordenadores {
+    background-color: blue;
+}
+
+.textoCoordenadores {
+    font-size: 30px;
+}
+
+.Metrica{
+    background-color: red;
+    font-size: 20px;
+
+}
+
+.Cadastrar {
+    background-color: red;
+
+}
+
+.textoCoordenacao {
+    font-size: 30px;
+    font-weight: bold;
+}
