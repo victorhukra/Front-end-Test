@@ -9,25 +9,26 @@
 
 .lista{
     background-color: green;
-    padding: 0em 4em 0em;
     font-weight: bold;
     font-size: 15px;
 }
 
-
+img{
+    width: 10%;
+    padding-left: 50%;
+}
 
 .Coordenadores {
     background-color: blue;
+    font-size: 30px;
+    text-decoration: underline;
+
 }
 
-.textoCoordenadores {
-    font-size: 30px;
-}
 
 .Metrica{
     background-color: red;
     font-size: 20px;
-
 }
 
 .Cadastrar {
@@ -35,7 +36,38 @@
 
 }
 
+.LiDocentes {
+    background-color: blue;
+
+}
+
+.docentes {
+    position: relative;
+    right: 82px;
+}
+
 .textoCoordenacao {
     font-size: 30px;
     font-weight: bold;
+}
+
+.Documentos {
+    background-color: lightgray;
+}
+
+.textoDocumentos {
+    font-size: 20px;
+}
+
+.Estrutura {
+    font-size: 15px;
+}
+
+.textoEstrutura {
+    font-size: 50px;
+}
+
+.Secretaria {
+    padding: 0em 5em 0em;
+    text-decoration: underline;
 }
